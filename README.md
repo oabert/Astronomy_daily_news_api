@@ -1,0 +1,1 @@
+"Create app page with daily changed astronomy image and data from Nasa API"
